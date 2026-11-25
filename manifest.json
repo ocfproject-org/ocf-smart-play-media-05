@@ -1,0 +1,56 @@
+{
+  "assets": {
+    "original-OCF-BOD-001": {
+      "bytes": 74755747,
+      "sha256": "5d730d04892cabeded5033ea71989824375bdce2fb59ea743beb222682fc3a98",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-001---Brain-Flow---en-US---Mike---Original-Voice---v0.3.0-c31d07527554.flac"
+    },
+    "original-OCF-BOD-002": {
+      "bytes": 80567942,
+      "sha256": "a0030d2ca6e2817895ef523dd148a3ef9cb05fe9338749ca45b3a8acc7a41b4c",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-002---Circulation---en-US---Mike---Original-Voice---v0.3.0-ecf9493b2fff.flac"
+    },
+    "original-OCF-BOD-007": {
+      "bytes": 80870500,
+      "sha256": "6d2941e2ddbf16e8dff9c86c5581b490c5c87a7bc464f53e3331a899698005c8",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-007---Blood-Pressure-Balance---en-US---Mike---Original-Voice---v0.3.0-bddba0bf7aff.flac"
+    },
+    "original-OCF-BOD-014": {
+      "bytes": 88039999,
+      "sha256": "48277e69e1fea9bb3e2412425df755a42b15d7db4424a9379077c21cdaf33f4f",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-014---Regenerate---en-US---Mike---Original-Voice---v0.3.0-00a5ad937a40.flac"
+    },
+    "original-OCF-COG-005": {
+      "bytes": 83227734,
+      "sha256": "8b31fb225655594ac7958627abf20bee832bb48fbe14831e4058d4602ece6883",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-COG-005---Options---en-US---Mike---Original-Voice---v0.3.0-20ff042321a8.flac"
+    },
+    "original-OCF-EMO-003": {
+      "bytes": 91555848,
+      "sha256": "bd200dfc61d38856272c5cdc6991afa3cabdf44f85a5cc0d84cefb5b759d6a9b",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-EMO-003---Empathize---en-US---Mike---Original-Voice---v0.3.0-27a44ed680a6.flac"
+    },
+    "original-OCF-EXP-003": {
+      "bytes": 86499941,
+      "sha256": "74e9062a4e9cda13fa1b34607f5d1f8f3af7060acb3392dcecf086888f6a14be",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-EXP-003---Dissolve---en-US---Mike---Original-Voice---v0.3.0-ef61aee78799.flac"
+    },
+    "original-OCF-FND-003": {
+      "bytes": 76426522,
+      "sha256": "5fe2e2570d96e16656a414a8beb83cb8c8f0c209e4677820169b07219c6b7606",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-FND-003---Quick-Recharge---en-US---Mike---Original-Voice---v0.3.0-816976a2819d.flac"
+    },
+    "original-OCF-PRF-004": {
+      "bytes": 76123515,
+      "sha256": "3c050473ec36b6196b1dd6e724d43aecd64879a40fcc8873a322281d622a84f6",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-PRF-004---Light-Foot---en-US---Mike---Original-Voice---v0.3.0-3acef157bfb7.flac"
+    },
+    "original-OCF-SEN-001": {
+      "bytes": 83856173,
+      "sha256": "1a8b0756931dd576a992a4795fe72ab095f9c1a15b3d202ea5fd4132cccf41c0",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-SEN-001---Hearing---en-US---Mike---Original-Voice---v0.3.0-eebefa28e179.flac"
+    }
+  },
+  "route": "v0.3.0",
+  "schema": 1
+}
